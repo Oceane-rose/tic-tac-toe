@@ -2,7 +2,7 @@
 Projet Morpion réalisé par Oceane S.
 Je n'ai malheureusement pas pu travailler en peer-programming aujourd'hui.
 
-Pour une meilleure appreciation du travail, ouvrez la feneetre du terminal en grand :)
+Pour une meilleure appreciation du travail, ouvrez la fenetre du terminal en grand :)
 
 Tu as juste besoin de lancer ruby app.rb
   
